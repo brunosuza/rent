@@ -1,0 +1,25 @@
+{
+  "expo": {
+    "name": "rentx",
+    "slug": "rentx",
+    "config": "metro.config.js",
+    "sdkVersion": "47.0.0",
+    "sourceExts": [
+      "expo.ts",
+      "expo.tsx",
+      "expo.js",
+      "expo.jsx",
+      "ts",
+      "tsx",
+      "js",
+      "jsx",
+      "json",
+      "wasm",
+      "svg"
+    ],
+    "splash": {
+      "image": "./assets/splash.png",
+      "backgroundColor": "#1B1B1F"
+    }
+  }
+}
